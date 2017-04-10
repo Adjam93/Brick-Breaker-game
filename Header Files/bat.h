@@ -8,8 +8,8 @@ public:
 	void Draw();
 
 public:
-	float m_x, m_y;          // center of the pingpang bat
-	float m_height, m_width; // dim	
+	float m_x, m_y;          // center of the bat
+	float m_height, m_width; // dimensions
 	GLuint batID;
 };
 #endif
