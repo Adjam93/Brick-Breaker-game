@@ -3,6 +3,11 @@ Simple Brick Breaker game made with C++, OpenGL (using GLUT). Built for Universi
 
 <h2>Screenshots</h2>
 
-<img href="http://adjam.heliohost.org/BB-images/game.png">
-<img href="http://adjam.heliohost.org/BB-images/game-over.bmp">
-<img href="http://adjam.heliohost.org/BB-images/start-screen.bmp">
+<h3>Starting Screen</h3>
+<img src="http://adjam.heliohost.org/BB-images/start-screen.bmp">
+
+<h3>Gameplay</h3>
+<img src="http://adjam.heliohost.org/BB-images/game.png">
+
+<h3>Game Over Screen</h3>
+<img src="http://adjam.heliohost.org/BB-images/game-over.bmp">
