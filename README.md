@@ -10,4 +10,4 @@ Simple Brick Breaker game made with C++, OpenGL (using GLUT). Built for Universi
 <img src="https://raw.githubusercontent.com/Adjam93/Brick-Breaker-game/master/Images/game.png">
 
 <h3>Game Over Screen</h3>
-<img src="http://adjam.heliohost.org/BB-images/game-over.png">
+<img src="https://raw.githubusercontent.com/Adjam93/Brick-Breaker-game/master/Screens/game-over.png">
